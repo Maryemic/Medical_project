@@ -1,1 +1,1 @@
-# Medical_project
+# Tuberculosis classification and segmentation
